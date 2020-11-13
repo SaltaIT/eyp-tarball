@@ -1,7 +1,7 @@
 {
   "name": "eyp-tarball",
   "version": "0.1.0",
-  "author": "eyp",
+  "author": "Jordi Prats",
   "summary": "tarball deployment",
   "license": "Apache-2.0",
   "source": "https://github.com/SaltaIT/eyp-tarball",
