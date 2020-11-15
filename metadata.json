@@ -5,7 +5,7 @@
   "summary": "tarball deployment",
   "license": "Apache-2.0",
   "source": "https://github.com/SaltaIT/eyp-tarball",
-  "project_page": null,
+  "project_page": "https://github.com/SaltaIT/eyp-vmwaretools",
   "issues_url": "https://github.com/SaltaIT/eyp-tarball/issues",
   "dependencies": [
     {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0"},
@@ -38,10 +38,6 @@
     }
   ],
   "requirements": [
-    {
-      "name": "pe",
-      "version_requirement": ">= 4.0.0"
-    },
     {
       "name": "puppet",
       "version_requirement": ">= 4.0.0"
